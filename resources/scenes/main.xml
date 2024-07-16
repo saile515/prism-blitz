@@ -1,0 +1,5 @@
+<Scene name="main">
+    <Node.Player name="player">
+        <Node.PlayerController name="player_controller"/>
+    </Node.Player>
+</Scene>
